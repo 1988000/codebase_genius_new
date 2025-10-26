@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/codebase_genius/__init__.py
+src/codebase_genius/code_analyzer.py
+src/codebase_genius/code_genius.py
+src/codebase_genius/doc_genie.py
+src/codebase_genius/repo_mapper.py
+src/codebase_genius/text_summarizer.py
+src/codebase_genius.egg-info/PKG-INFO
+src/codebase_genius.egg-info/SOURCES.txt
+src/codebase_genius.egg-info/dependency_links.txt
+src/codebase_genius.egg-info/top_level.txt

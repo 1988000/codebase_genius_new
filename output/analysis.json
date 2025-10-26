@@ -1,0 +1,148 @@
+{
+  "files": [
+    {
+      "path": "setup.py",
+      "lines": 107
+    },
+    {
+      "path": "src/requests/utils.py",
+      "lines": 1086
+    },
+    {
+      "path": "src/requests/adapters.py",
+      "lines": 696
+    },
+    {
+      "path": "src/requests/exceptions.py",
+      "lines": 151
+    },
+    {
+      "path": "src/requests/models.py",
+      "lines": 1039
+    },
+    {
+      "path": "src/requests/help.py",
+      "lines": 134
+    },
+    {
+      "path": "src/requests/_internal_utils.py",
+      "lines": 50
+    },
+    {
+      "path": "src/requests/packages.py",
+      "lines": 23
+    },
+    {
+      "path": "src/requests/__version__.py",
+      "lines": 14
+    },
+    {
+      "path": "src/requests/certs.py",
+      "lines": 17
+    },
+    {
+      "path": "src/requests/api.py",
+      "lines": 157
+    },
+    {
+      "path": "src/requests/auth.py",
+      "lines": 314
+    },
+    {
+      "path": "src/requests/status_codes.py",
+      "lines": 128
+    },
+    {
+      "path": "src/requests/sessions.py",
+      "lines": 831
+    },
+    {
+      "path": "src/requests/hooks.py",
+      "lines": 33
+    },
+    {
+      "path": "src/requests/__init__.py",
+      "lines": 184
+    },
+    {
+      "path": "src/requests/compat.py",
+      "lines": 106
+    },
+    {
+      "path": "src/requests/cookies.py",
+      "lines": 561
+    },
+    {
+      "path": "src/requests/structures.py",
+      "lines": 99
+    },
+    {
+      "path": "tests/test_structures.py",
+      "lines": 78
+    },
+    {
+      "path": "tests/utils.py",
+      "lines": 17
+    },
+    {
+      "path": "tests/test_lowlevel.py",
+      "lines": 428
+    },
+    {
+      "path": "tests/test_adapters.py",
+      "lines": 8
+    },
+    {
+      "path": "tests/test_requests.py",
+      "lines": 3040
+    },
+    {
+      "path": "tests/test_hooks.py",
+      "lines": 22
+    },
+    {
+      "path": "tests/test_packages.py",
+      "lines": 13
+    },
+    {
+      "path": "tests/test_utils.py",
+      "lines": 977
+    },
+    {
+      "path": "tests/test_testserver.py",
+      "lines": 165
+    },
+    {
+      "path": "tests/conftest.py",
+      "lines": 58
+    },
+    {
+      "path": "tests/test_help.py",
+      "lines": 27
+    },
+    {
+      "path": "tests/__init__.py",
+      "lines": 14
+    },
+    {
+      "path": "tests/compat.py",
+      "lines": 23
+    },
+    {
+      "path": "tests/testserver/__init__.py",
+      "lines": 0
+    },
+    {
+      "path": "tests/testserver/server.py",
+      "lines": 176
+    },
+    {
+      "path": "docs/conf.py",
+      "lines": 386
+    },
+    {
+      "path": "docs/_themes/flask_theme_support.py",
+      "lines": 86
+    }
+  ]
+}

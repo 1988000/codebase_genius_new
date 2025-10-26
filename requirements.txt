@@ -1,0 +1,5 @@
+jaseci
+jaseci-ai-kit
+torch
+transformers
+gitpython

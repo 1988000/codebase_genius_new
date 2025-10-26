@@ -1,0 +1,93 @@
+2025-10-25 21:55:04,565 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 21:56:19,100 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 21:57:07,835 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 21:57:07,880 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f15fb51b040>
+2025-10-25 21:57:07,880 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 21:57:07,880 - ERROR - compile_jac: main.jac: line 2:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 21:57:07,880 - ERROR - compile_jac: main.jac: line 3:4 - unparsed:main.jac:0:0: - extraneous input 'has' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-10-25 21:57:07,880 - ERROR - compile_jac: main.jac: line 15:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 21:57:07,880 - ERROR - register: main.jac: Code not registered
+2025-10-25 21:57:37,376 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 21:58:19,931 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 22:00:00,504 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 22:00:00,544 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f60f0933160>
+2025-10-25 22:00:00,544 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 22:00:00,544 - ERROR - compile_jac: main.jac: line 2:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 22:00:00,544 - ERROR - compile_jac: main.jac: line 3:4 - unparsed:main.jac:0:0: - extraneous input 'has' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-10-25 22:00:00,544 - ERROR - compile_jac: main.jac: line 15:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 22:00:00,544 - ERROR - register: main.jac: Code not registered
+2025-10-25 22:01:59,833 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 22:01:59,874 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7fdf5845d510>
+2025-10-25 22:01:59,874 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 22:01:59,874 - ERROR - compile_jac: main.jac: line 2:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 22:01:59,874 - ERROR - compile_jac: main.jac: line 3:4 - unparsed:main.jac:0:0: - extraneous input 'has' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-10-25 22:01:59,874 - ERROR - compile_jac: main.jac: line 15:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 22:01:59,874 - ERROR - register: main.jac: Code not registered
+2025-10-25 22:06:01,175 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 22:06:01,218 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f548c12ee90>
+2025-10-25 22:06:01,218 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 22:06:01,218 - ERROR - compile_jac: main.jac: line 2:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 22:06:01,218 - ERROR - compile_jac: main.jac: line 3:4 - unparsed:main.jac:0:0: - extraneous input 'has' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-10-25 22:06:01,218 - ERROR - compile_jac: main.jac: line 15:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 22:06:01,219 - ERROR - register: main.jac: Code not registered
+2025-10-25 23:03:14,709 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:03:14,749 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f63bcb37070>
+2025-10-25 23:03:14,749 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 23:03:14,749 - ERROR - compile_jac: main.jac: line 2:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 23:03:14,749 - ERROR - compile_jac: main.jac: line 3:4 - unparsed:main.jac:0:0: - extraneous input 'has' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-10-25 23:03:14,749 - ERROR - compile_jac: main.jac: line 15:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 23:03:14,749 - ERROR - register: main.jac: Code not registered
+2025-10-25 23:03:55,193 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:03:55,234 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7f6aca936d40>
+2025-10-25 23:03:55,235 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 23:03:55,235 - ERROR - compile_jac: main.jac: line 2:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 23:03:55,235 - ERROR - compile_jac: main.jac: line 3:4 - unparsed:main.jac:0:0: - extraneous input 'has' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-10-25 23:03:55,235 - ERROR - compile_jac: main.jac: line 15:16 - unparsed:main.jac:0:0: - no viable alternative at input 'cantriggeron'
+2025-10-25 23:03:55,235 - ERROR - register: main.jac: Code not registered
+2025-10-25 23:06:12,648 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:06:12,703 - ERROR - spawn_architype: main.jac: Unable to spawn walker architype init!
+2025-10-25 23:06:12,703 - ERROR - run_architype: main.jac: Unable to spawn architype ['init', 'walker']!
+2025-10-25 23:07:33,130 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:07:33,183 - ERROR - spawn_architype: main.jac: Unable to spawn walker architype init!
+2025-10-25 23:07:33,183 - ERROR - run_architype: main.jac: Unable to spawn architype ['init', 'walker']!
+2025-10-25 23:07:53,016 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:08:22,758 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:11:32,856 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:12:47,512 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:15:07,153 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:15:07,222 - ERROR - spawn_architype: main.jac: Unable to spawn walker architype init!
+2025-10-25 23:15:07,222 - ERROR - run_architype: main.jac: Unable to spawn architype ['init', 'walker']!
+2025-10-25 23:18:07,937 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:18:07,973 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7faa3fc3b0d0>
+2025-10-25 23:18:07,973 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-10-25 23:18:07,973 - ERROR - compile_jac: main.jac: line 8:0 - unparsed:main.jac:0:0: - extraneous input 'init_codebase_genius' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-25 23:18:07,973 - ERROR - register: main.jac: Code not registered
+2025-10-25 23:21:26,008 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:21:42,597 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:22:48,385 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-25 23:22:48,437 - ERROR - rt_error: main.jac:generate_docs - line 6, col 0 - rule atom - Variable not defined - pyexec
+2025-10-25 23:22:48,438 - INFO - log: ['DEBUG_INFO', 1, 6, 0, 0]
+2025-10-25 23:22:48,438 - INFO - log: ['LOAD_VAR', 6, 'pyexec']
+2025-10-25 23:25:27,384 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
