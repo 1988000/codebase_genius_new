@@ -1,37 +1,21 @@
 # 🧠 Codebase Genius
 
-**Codebase Genius** is an AI-powered documentation generator that analyzes software repositories and automatically produces high-quality markdown documentation.  
-It is built using **JacLang (Jaseci)** and **Python** with modular agent-based architecture.
+An AI-powered documentation generator for GitHub repositories.  
+Developed by **Evans Langat**.
 
----
+## 🚀 Overview
+Codebase Genius analyzes your Python projects and automatically generates detailed Markdown documentation.  
+It scans your repository, extracts structure, and saves clean, readable docs in the **output/DOCUMENTATION.md** file.
 
-## 🚀 Features
-- Automatically clones a GitHub repository.
-- Maps file structures and summarizes README files.
-- Analyzes Python code and builds a **Code Context Graph (CCG)**.
-- Generates clean, structured markdown documentation.
-- Uses T5 model for intelligent text summarization.
+## ⚙️ How to Run
+1. Clone this repository to your machine:
+   ```bash
+   git clone https://github.com/1988000/codebase_genius_new.git
+   ```
+2. Activate your virtual environment.
+3. Run the Codebase Genius Supervisor script and enter any GitHub repository URL.
+4. The documentation will be generated in the `output/` folder.
 
----
+## 📄 Output Example
+- `output/DOCUMENTATION.md` — contains your project’s auto-generated documentation.
 
-## 🧩 System Architecture
-The system consists of four main modules (agents):
-1. **Repo Mapper** – Clones repositories and reads file trees.  
-2. **Code Analyzer** – Extracts functions, classes, and relationships.  
-3. **DocGenie** – Generates final documentation in markdown format.  
-4. **Code Genius (Supervisor)** – Orchestrates all agents and manages workflow.
-
----
-
-## 🛠️ Setup Instructions
-```bash
-# 1. Clone this project
-git clone <your_project_repo_or_local_path>
-cd codebase_genius
-
-# 2. Create virtual environment
-python3 -m venv jaseci_env
-source jaseci_env/bin/activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
