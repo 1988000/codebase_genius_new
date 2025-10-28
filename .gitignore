@@ -1,0 +1,5 @@
+__pycache__/
+.jaseci_logs/
+repos/
+input_repo/
+rm -rf ~/
