@@ -1,48 +1,35 @@
 # 🧠 Codebase Genius
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/Author-Evans%20Langat-orange)](https://github.com/1988000)
+**Author:** Evans Langat  
+**Repository:** [codebase_genius_new](https://github.com/1988000/codebase_genius_new)
 
 ---
 
-## 🚀 Overview
-**Codebase Genius** is an AI-powered documentation generator for GitHub repositories.  
-It automatically analyzes your Python projects and produces structured, readable technical documentation in Markdown format.
+## 🚀 Project Overview
+
+**Codebase Genius** is an AI-powered documentation generator that analyzes GitHub repositories and automatically creates structured, human-readable documentation.  
+It leverages **Jaseci** and **Python** to understand project structure, summarize code, and produce detailed technical insights.
 
 ---
 
-## ⚙️ How It Works
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/1988000/codebase_genius_new.git
-   ```
-2. Activate your virtual environment.
-3. Run the **Codebase Genius Supervisor** script.
-4. Enter any GitHub repository URL.
-5. The generated documentation will appear in the **output/** folder.
+## 🧩 How It Works
+
+1. **Clone or input a GitHub repository URL**
+2. **Analyze the codebase** using Python scripts such as:
+   - `code_analyzer.py`
+   - `repo_mapper.py`
+   - `text_summarizer.py`
+3. **Generate documentation** using:
+   - `doc_genie.py`
+4. Output is stored in:
+/output/DOCUMENTATION.md
+
 
 ---
 
-## 📂 Output Example
-📄 `output/DOCUMENTATION.md`  
-Contains the auto-generated documentation with:
-- Repository overview  
-- File analysis  
-- Line counts  
-- Summaries of Python files  
+## ⚙️ Setup Instructions
 
----
-
-## 🧑‍💻 Author
-**Evans Langat**  
-🌍 Developer | AI & Automation Enthusiast  
-🔗 [GitHub Profile](https://github.com/1988000)
-
----
-
-## 🪪 License
-This project is licensed under the **MIT License** — you are free to use, modify, and distribute it with attribution.
-
----
-
+### 1️⃣ Create and activate environment
+```bash
+cd ~/codebase_genius
+source jaseci_env/bin/activate
