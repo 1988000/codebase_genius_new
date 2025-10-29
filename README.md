@@ -33,3 +33,13 @@ It leverages **Jaseci** and **Python** to understand project structure, summariz
 ```bash
 cd ~/codebase_genius
 source jaseci_env/bin/activate
+## 🎥 Demo Video
+
+Watch the full walkthrough of **Codebase Genius** by Evans Langat below:  
+▶️ [Click here to watch the demo](https://go.screenpal.com/watch/cT6UrRnFiNI)
+
+**Description:**  
+Codebase Genius is an AI-powered documentation generator that analyzes GitHub repositories and creates human-readable documentation automatically.  
+It’s built with **Python** and **Jaseci**, and demonstrates an automated workflow from repository cloning to documentation generation.
+
+🔗 GitHub Repository: [https://github.com/1988000/codebase_genius_new](https://github.com/1988000/codebase_genius_new)
